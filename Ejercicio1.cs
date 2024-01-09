@@ -7,7 +7,7 @@ public class Ejercicio1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-      Debug.Log("hello Mundo");
+      Debug.Log("Wola Mundo");
     }
 
     // Update is called once per frame
